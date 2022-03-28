@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YekiUygulaması01.03", "YekiUygulaması01.03\YekiUygulaması01.03.csproj", "{13A3D009-7A4D-45E7-AD9D-4D5C8AEE761D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13A3D009-7A4D-45E7-AD9D-4D5C8AEE761D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13A3D009-7A4D-45E7-AD9D-4D5C8AEE761D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13A3D009-7A4D-45E7-AD9D-4D5C8AEE761D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13A3D009-7A4D-45E7-AD9D-4D5C8AEE761D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04D40F8D-8E51-4712-B6BC-BE288C450338}
+	EndGlobalSection
+EndGlobal
